@@ -1,0 +1,20 @@
+Flask[async]==2.3.2
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.4
+psycopg2-binary==2.9.6
+Flask-Marshmallow==0.15.0 # marshmallow-sqlalchemy включен
+marshmallow==3.19.0
+PyJWT==2.7.0
+uvicorn
+psycopg2-binary
+redis==4.6.0
+minio==7.1.14
+prometheus-flask-exporter==0.22.4
+marshmallow-sqlalchemy==0.29.0
+python-dotenv==1.0.0
+Flask-CORS
+werkzeug==2.3.4 # Убедитесь, что совместимо с Flask 2.3.x
+bcrypt==4.0.1
+blinker==1.6.2 # Может потребоваться для сигналов Flask
+asyncpg==0.29.0
+quart
